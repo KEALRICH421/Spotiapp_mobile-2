@@ -66,7 +66,7 @@ lib/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/ImKevinL/spotiapp_mobile.git
+git clone https://github.com/KEALRICH421/Spotiapp_mobile-2.git
 cd spotiapp_mobile
 ```
 
@@ -134,14 +134,4 @@ El campo `preview_url` fue eliminado por Spotify en 2024 para la mayoría de tra
 ### CORS en Web
 La reproducción de audio con `just_audio` presenta restricciones de CORS en Chrome. Funciona correctamente en dispositivos Android e iOS.
 
----
 
-## 👨‍💻 Autor
-
-Desarrollado como parte del taller de Flutter — Consumo de APIs REST.
-
----
-
-## 📄 Licencia
-
-Este proyecto es de uso educativo.
