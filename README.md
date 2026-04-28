@@ -67,7 +67,7 @@ lib/
 
 ```bash
 git clone https://github.com/KEALRICH421/Spotiapp_mobile-2.git
-cd spotiapp_mobile
+cd Spotiapp_mobile-2
 ```
 
 ### 2. Instalar dependencias
